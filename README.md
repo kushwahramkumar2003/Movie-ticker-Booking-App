@@ -1,1 +1,1 @@
-# Movie-ticker-Booking-App
+This App is work only CodeBlocks so you shoud install firstly CodeBlocks.
